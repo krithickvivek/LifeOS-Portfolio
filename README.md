@@ -51,13 +51,19 @@ It returns an itemized food breakdown and estimated nutritional information.
 ![AI Meal Analyzer](screenshots/ai-meal-analyzer.png)
 
 ### 3. Fitness Tracking
-- Record body-weight entries.
-- Visualize weight changes over time.
-- Log workouts and training sessions.
-- Monitor weekly workout activity.
-- Track progress towards a goal weight.
+- Plan and manage daily workout routines.
+- Track exercises and completed workout sessions.
+- Select and record targeted muscle groups.
+- Manage recurring Daily Essentials.
+- Track workout activity through monthly and weekly calendars.
+- View workout history and training activity.
+- Monitor body-weight trends and fitness progress.
+- Visualize muscle-group activity through progress analytics.
 
-![LifeOS Fitness](screenshots/fitness.png)
+<img width="1910" height="1123" alt="fitness" src="https://github.com/user-attachments/assets/d5908024-2f07-474d-aaa2-2c53846252df" />
+
+<img width="1910" height="3425" alt="fitness-progress" src="https://github.com/user-attachments/assets/98c3b321-ab30-427e-b2bf-b48539a6dce9" />
+
 
 ### 4. Project Management
 - Create dedicated boards for individual projects.
