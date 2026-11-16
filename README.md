@@ -64,6 +64,8 @@ It returns an itemized food breakdown and estimated nutritional information.
 
 <img width="1910" height="3425" alt="fitness-progress" src="https://github.com/user-attachments/assets/98c3b321-ab30-427e-b2bf-b48539a6dce9" />
 
+![LifeOS Fitness](screenshots/fitness.png)
+![LifeOS FitnessProgress](screenshots/fitness-progress.png)
 
 ### 4. Project Management
 - Create dedicated boards for individual projects.
